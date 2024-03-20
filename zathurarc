@@ -1,0 +1,17 @@
+include catppuccin-macchiato
+
+set syntex true
+
+set window-height 1920
+set window-width 1080
+set guioptions none
+
+map r reload
+map R rotate
+map K zoom in
+map J zoom out
+map i recolor
+
+set synctex true
+set statusbar-h-padding 0
+set font 'monospace normal 14'
